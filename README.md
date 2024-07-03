@@ -6,9 +6,10 @@ Le laboratoire LIENSs, avec son expertise en habitats marins et géomatique, con
 L'extension QGIS « IndiceSurfaciqueZosteres» est conçu pour calculer un indice de recouvrement pour les herbiers de Zostera noltei, en prenant en compte la couverture, le NDVI et la fragmentation de l'herbier. 
 
 Pour ce faire, vous avez à votre disposition plusieurs fichiers permettant de rendre reproductible cet indice comme indiqué ci-dessous.
-- extension QGIS
-- notice d'utilisation de l'indice de recouvrement
-- script IR_ZOSTR
-- estimation des observations terrain
-- points aléatoires a partir des estimations
+- Extension QGIS "IndiceSurfaciqueZosteres.zip"
+- Notice d'utilisation de l'indice de recouvrement des herbiers de Zostera noltei "
+- Script de l'indice de recouvrement sur Jupyter Notebook "IR_ZOSTR.ipynb"
+- Script de l'estimation des observations terrain sur R "ESTIM_OBS_IR.R"
+- Script pour avoir les points aléatoires à échantillonner à partir des estimations sur R "POINTS_ESTIM_OBS.R"
+- Script permettant de convertir les scripts .py en .docx sur Jupyter Notebook "CONVERT_.py_to_.docx.ipynb"
 
