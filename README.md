@@ -7,9 +7,10 @@ L'extension QGIS « IndiceSurfaciqueZosteres» est conçu pour calculer un indic
 
 Pour ce faire, vous avez à votre disposition plusieurs fichiers permettant de rendre reproductible cet indice comme indiqué ci-dessous.
 - Extension QGIS "IndiceSurfaciqueZosteres.zip"
-- Notice d'utilisation de l'indice de recouvrement des herbiers de Zostera noltei "
+- Notice d'utilisation de l'indice de recouvrement des herbiers de Zostera noltei "NOTICE_UTILISATION_IR_ZOSTR_LEA_MOING_05072024.pdf"
 - Script de l'indice de recouvrement sur Jupyter Notebook "IR_ZOSTR.ipynb"
 - Script de l'estimation des observations terrain sur R "ESTIM_OBS_IR.R"
 - Script pour avoir les points aléatoires à échantillonner à partir des estimations sur R "POINTS_ESTIM_OBS.R"
 - Script permettant de convertir les scripts .py en .docx sur Jupyter Notebook "CONVERT_.py_to_.docx.ipynb"
+- Tableur permettant d'avoir l'équation annuel du calcul de l'indice "EQUATION_IR_A_REMPLIR.xlx"
 
